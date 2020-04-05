@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost:3307/bloggersblog",
+    "prod_uri": "mysql://root:@localhost:3307/bloggersblog",
+    "fb_url": "https://facebook.com/bloggersblog",
+    "tw_url": "https://twitter.com/bloggersblog",
+    "gh_url": "https://github.com/bloggersblog",
+    "gmail-user": "shilpappareek@gmail.com",
+    "gmail-password": "shilpazzzpareekwww",
+    "about_text": "hi my name is shilpa and i am a programmer",
+    "login_img": "login.svg",
+    "admin_user": "admin",
+    "admin_pass": "admin",
+    "no_of_posts": 2,
+    "upload_location": "C:\\Users\\pawan pareek\\PycharmProjects\\Flast-tut\\static"
+
+
+
+  }
+
+}
